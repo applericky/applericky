@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi there!   
+# 👨🏻‍💻  👋🏻
+
+Network engineer by day. Pythonista by night. 
+I'm here to help you with your automation needs. #NetDevOps
+
 
 <!--
 **applericky/applericky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# About Me
+Network engineer by day. Pythonista by night. 
+
 
 Here are some ideas to get you started:
 
