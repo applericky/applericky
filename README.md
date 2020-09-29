@@ -4,6 +4,10 @@
 Network engineer by day. Pythonista by night. 
 I'm here to help you with your automation needs. #NetDevOps
 
+Grab some ☕️ and lets work on things. 
+
+>>>from coffe import *
+
 
 <!--
 **applericky/applericky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
