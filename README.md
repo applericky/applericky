@@ -4,7 +4,7 @@
 Network engineer by day. Pythonista by night. 
 I'm here to help you with your automation needs. #NetDevOps
 
-Grab some ☕️ and lets work on things. 
+Grab some ☕️ and let's work on things. 
 ```
 >>>from coffee import *
 ```
